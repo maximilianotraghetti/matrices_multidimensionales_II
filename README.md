@@ -1,18 +1,18 @@
-# matrices_multidimensionales_II
+# Gestión de Personas
 
-# Gestión de Personas en Python
+Este programa permite gestionar datos de personas mediante un menú interactivo en la consola.
 
-Este programa permite:
+## Funcionalidades:
+- Ingresar una nueva persona (nombre, apellido, DNI, teléfonos e hijos).
+- Mostrar todos los datos almacenados.
+- Buscar una persona por su DNI.
+- Salir del programa.
 
-- Ingresar datos de personas (nombre, apellido, DNI, teléfonos e hijos).
-- Mostrar todos los datos ingresados.
-- Filtrar una persona por su DNI.
-
-## Ejecución
-
-1. Asegúrate de tener Python 3 instalado.
-2. Guarda el código en un archivo, por ejemplo, `personas.py`.
-3. Ejecuta el programa con el comando:
-
-   ```bash
-   python personas.py
+## Ejecución: 
+- abrir el archivo a ejecutar
+- ```bash
+  matrices_multidimensionales.py
+- Presionar f5 para la ejecución
+- Para js es:
+- ```bash
+  node matrices_multidimensionales.js
